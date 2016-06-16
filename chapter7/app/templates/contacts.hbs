@@ -1,0 +1,13 @@
+{{#each model as |contact|}}
+  {{contact.name}}<br>
+
+  {{#each contact.pets as |pet|}}
+    {{pet.name}}
+    <br>
+  {{/each}}
+
+  <br>
+
+  {{contact.company.name}}
+  <br>
+{{/each}}
