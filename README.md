@@ -6,3 +6,4 @@ I have done the best I can to ensure this book doesn't have any typos and errors
 
 * [Chapter 6](https://github.com/skaterdav85/editw-chapter6)
 * [Chapter 10](https://github.com/skaterdav85/editw-chapter10)
+* [Chapter 13](https://github.com/skaterdav85/editw-chapter13)
