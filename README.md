@@ -4,7 +4,6 @@ I have done the best I can to ensure this book doesn't have any typos and errors
 
 ## Source Code
 
-* [Chapter 6](https://github.com/skaterdav85/editw-chapter6)
-* [Chapter 8](https://github.com/skaterdav85/editw-chapter8)
-* [Chapter 10](https://github.com/skaterdav85/editw-chapter10)
-* [Chapter 13](https://github.com/skaterdav85/editw-chapter13)
+* [Chapter 6 - Writing an Adapter and Serializer from Scratch & Chapter 7 - Swapping the API with Local Storage](https://github.com/skaterdav85/editw-chapter6)
+* [Chapter 8 - Nested Resource URL Paths and Relationship Links](https://github.com/skaterdav85/editw-chapter8)
+* [Chapter 13 - Consuming the Reddit API](https://github.com/skaterdav85/editw-chapter13)
